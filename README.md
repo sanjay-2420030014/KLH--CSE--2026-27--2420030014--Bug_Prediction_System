@@ -159,8 +159,4 @@ The repository will use the following tags for project reviews:
 * No passwords, API keys, credentials, or confidential data will be uploaded.
 * The repository will be retained until final project evaluation.
 
----
 
-## 📄 License
-
-This project is developed for academic purposes as part of the Engineering Capstone Project.
